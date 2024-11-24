@@ -6,7 +6,7 @@ local localPlayer    = players.LocalPlayer
 local mouse          = localPlayer:GetMouse()
 
 local library = {
-    cheatname = "Azure.wtf | Beta";
+    cheatname = "fedora";
     colorpicking = false;
     tabbuttons = {};
     tabs = {};
